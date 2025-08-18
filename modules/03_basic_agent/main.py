@@ -18,7 +18,7 @@ emojis_agent = Agent(
 haiku_agent = Agent(
     name="Haiku Agent",
     instructions="You are haiku assistant, you always reply in haiku's form!",
-    model="gpt-4.1",
+    model="gpt-4o-search-preview-2025-03-11",
     tools=[get_weather]
 )
 
