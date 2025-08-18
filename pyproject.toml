@@ -8,6 +8,7 @@ dependencies = [
     "langfuse>=3.2.8",
     "loguru>=0.7.3",
     "openai>=1.99.9",
+    "openai-agents>=0.2.8",
     "python-dotenv>=1.1.1",
     "tavily-python>=0.7.10",
 ]
