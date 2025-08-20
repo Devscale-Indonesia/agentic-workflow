@@ -1,5 +1,3 @@
-# Agent
-# Runner
 from agents import Agent, Runner, function_tool
 from dotenv import load_dotenv
 
