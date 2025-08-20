@@ -5,8 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "chromadb>=1.0.20",
     "langfuse>=3.2.8",
     "loguru>=0.7.3",
+    "mistralai>=1.9.7",
     "openai>=1.99.9",
     "openai-agents>=0.2.8",
     "python-dotenv>=1.1.1",
